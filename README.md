@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/iftakher99">Iftakher<a><img src="https://github.com/iftakher99/iftakher99/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/iftakher99">Iftakher 🚀<a></h1>
     
 <p align="center">
     <img width="200" src="https://avatars.githubusercontent.com/u/73179862?v=4">
@@ -6,16 +6,28 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
-🏆 My certifications: 
-<ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
-</ul>
+<h3 align="center">Formerly a student but passionate in programming</h3>
+<p align="center"> 
+	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
+<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
+
+</p>
+<h2 align="center">Personal Details</h2>
+<p align="center">
+1. Learning programming languages: HTML, CSS, JavaScript, React, Bash/Shell
+ 
+2. How to contact me in messenger: <a href = "https://m.me/iftakher99" target="blank">Iftakher</a>
+
+3. Hobby: Reading books, Listen music, Play games.
+
+4. Loves to: Create Ebooks, Ringtones, Fake Screenshots, Memes, Meme Templates.
+
+5. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
+
+6. Experienced in: Phone Rooting, Custom Rom/Recovery, Install OS in PC.
+
+7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
+</p>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/iftakher-mahmud/">Linkedin</a><br><br><br>
 
