@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/iftakher99">Iftakher 🚀<a></h1>
     
 <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/73179862?v=4">
+    <img width="200" src="https://i.pinimg.com/564x/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg">
 </p>
 
 <div>
