@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-![iftakher99 GitHub stats](https://github-readme-stats.vercel.app/api?username=iftakher99&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=github-readme-stats)](https://github.com/iftakher99/github-readme-stats)
 
 </div>
 
