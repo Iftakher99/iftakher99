@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/iftakher99">Iftakher<a><img src="https://github.com/iftakher99/iftakher99/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
-    <img width="200" src="https://github.com/iftakher99/iftakher99/blob/main/kathryn.png">
+    <img width="200" src="https://avatars.githubusercontent.com/u/73179862?v=4">
 </p>
 
 <div>
@@ -17,7 +17,7 @@
   <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
 </ul>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
+😄 Find me on <a href="https://www.linkedin.com/in/iftakher-mahmud/">Linkedin</a><br><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iftakher99&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
@@ -36,4 +36,4 @@
 
 ------
 Credit: [iftakher99](https://github.com/iftakher99)
-Last Edited on: 15/4/2021
+Last Edited on: 19/5/2021
