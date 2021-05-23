@@ -50,10 +50,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftakher99&theme=radical&hide_border=true"/><br><br>
 
 <strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
+<img src="https://img.shields.io/badge/-javascript-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&langs_count_private=true&theme=radical&card_width=445)<br><br>
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
