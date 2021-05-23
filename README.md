@@ -115,9 +115,11 @@ const iftakher = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/iftakher99/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+<a href="https://github.com/iftakher99/247-electric">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=247-electric&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="247-electric" />
+
 </a>
+
 ------
 Credit: [iftakher99](https://github.com/iftakher99)
 Last Edited on: 19/5/2021
