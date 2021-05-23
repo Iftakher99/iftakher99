@@ -5,7 +5,7 @@
 </p>
 
 <div>
-<strong>About Me:</strong><br>
+<strong align="center">About Me:</strong><br>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <p align="center"> 
 	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
@@ -29,7 +29,19 @@
 7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
 </p>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/iftakher-mahmud/">Linkedin</a><br><br><br>
+😄 Find me on <a href="https://www.linkedin.com/in/iftakher-mahmud/">Linkedin</a><br>
+<p align="center">
+
+  <a href="https://twitter.com/iftakher_mahmud"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/iftakher_mahmud?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/iftakher99"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/iftakher_mahmud?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" /> </p>
+  
+  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iftakher99/) 
+ 
+ 
+ 
+</p><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iftakher99&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
