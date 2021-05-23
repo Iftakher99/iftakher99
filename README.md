@@ -9,7 +9,21 @@
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <p align="center"> 
 	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
-<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
+<img align="center" src="https://img.shields.io/badge/github%20code-blue">
+
+</a>
+<a href="https://twitter.com/iftakher_mahmud">
+  <img align="left" alt="iftakher_mahmud | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/iftakher-mahmud/">
+  <img align="left" alt="iftakher_mahmud LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=iftakher99.iftakher99)
+
+<br />
 
 </p>
 <h2 align="center">Personal Details</h2>
@@ -79,6 +93,7 @@
 </table>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br><br>
+
 
 <strong>## Other Stuff </strong>
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
