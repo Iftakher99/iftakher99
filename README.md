@@ -32,7 +32,7 @@
 😄 Find me on <a href="https://www.linkedin.com/in/iftakher-mahmud/">Linkedin</a><br>
 <p align="center">
 
-  <a href="https://twitter.com/iftakher_mahmud"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/iftakher_mahmud?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/iftakher_mahmud"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/iftakher_mahmud?style=social"/></a>
   <a href="https://www.linkedin.com/in/iftakher-mahmud"><img alt="followers" title=" Twitter" src="https://img.shields.io/linkedIn/follow/iftakher-mahmud?color=55960c&label=Follow&logo=linkedIn&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/iftakher99"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/iftakher_mahmud?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   
