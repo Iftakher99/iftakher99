@@ -102,7 +102,7 @@ const iftakher = {
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![iftakher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=5812c55e-7aa6-43f5-ad60-8348f2c044b4)](https://github.com/iftakher99/github-readme-stats)
+[![iftakher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iftakher99)](https://github.com/iftakher99/github-readme-stats)
 
 
 <strong>## Other Stuff </strong>
