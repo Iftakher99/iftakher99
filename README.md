@@ -16,19 +16,28 @@
 
 </p>
 <h2 align="center">Personal Details</h2>
-<p align="center">
-1. Learning programming languages: HTML, CSS, JavaScript, React, Bash/Shell
- 
-2. How to contact me in messenger: <a href = "https://m.me/iftakher99" target="blank">Iftakher</a>
-
-3. Hobby: Reading books, Listen music, Play games.
-
-4. Loves to: Create Ebooks, Ringtones, Fake Screenshots, Memes, Meme Templates.
-
-5. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
-
-6. Experienced in: Phone Rooting, Custom Rom/Recovery, Install OS in PC.
-
+```javascript
+const iftakher = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript",],
+    askMeAbout: ["web dev", "tech", "app dev", "front-end-dev"],
+    technologies: {
+        backEnd: {
+            js: ["node", , "express", "SuiteScript"],
+        },
+        frontEnd: {
+            js: ["react", ],
+            css: ["materialize", "react-bootstrap", "bootstrap"]
+        },
+        
+        databases: ["mongoDb"],
+        misc: ["Firebase", "Socket.IO",  ]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Single page Web application",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
 </p>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
