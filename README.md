@@ -60,8 +60,6 @@ const iftakher = {
 ![](https://visitor-badge.glitch.me/badge?page_id=iftakher99.iftakher99)
   
 
- 
- 
 </p><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
