@@ -16,7 +16,7 @@
 
 </p>
 <h2 align="center">Personal Details</h2>
-```javascript
+````javascript
 const iftakher = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript",],
@@ -36,7 +36,7 @@ const iftakher = {
     currentFocus: "Single page Web",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-```
+````
 
 
 7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
