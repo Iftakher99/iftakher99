@@ -4,8 +4,8 @@
     <img width="200" src="https://i.pinimg.com/564x/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg">
 </p>
 
-<div align="center">
-<strong></strong> About Me:<br>
+<div >
+<strong> <span align="center">About Me: </span></strong> <br>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <p align="center"> 
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
