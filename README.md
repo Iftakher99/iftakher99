@@ -40,7 +40,7 @@ const iftakher = {
 ````
 
 
-7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
+## My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
 </p>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
 
