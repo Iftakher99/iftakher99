@@ -20,11 +20,11 @@
 ````javascript
 const iftakher = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript",],
-    askMeAbout: ["web dev", "tech", "app dev", "front-end-dev"],
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "tech", "front-end-dev"],
     technologies: {
         backEnd: {
-            js: ["node", , "express", "SuiteScript"],
+            js: ["node", , "express", ],
         },
         frontEnd: {
             js: ["react", ],
@@ -33,7 +33,7 @@ const iftakher = {
         databases: ["mongoDb"],
         misc: ["Firebase", "Socket.IO",  ]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: [ "Progressive web applications", "Single page applications"],
     currentFocus: "Single page Web",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
