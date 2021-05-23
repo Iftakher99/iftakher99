@@ -16,6 +16,7 @@
 
 </p>
 <h2 align="center">Personal Details</h2>
+
 ````javascript
 const iftakher = {
     pronouns: "He" | "Him",
