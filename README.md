@@ -8,20 +8,9 @@
 <strong align="center">About Me:</strong><br>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <p align="center"> 
-	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
-<img align="center" src="https://img.shields.io/badge/github%20code-blue">
-
-</a>
-<a href="https://twitter.com/iftakher_mahmud">
-  <img align="left" alt="iftakher_mahmud | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/iftakher-mahmud/">
-  <img align="left" alt="iftakher_mahmud LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=iftakher99.iftakher99)
 
 <br />
 
@@ -51,7 +40,13 @@
  
   <a href="https://github.com/iftakher99"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/iftakher99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" />
+    </p>
+    <a href="https://www.linkedin.com/in/iftakher-mahmud/">
+  <img align="left" alt="iftakher_mahmud LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=iftakher99.iftakher99)
   
   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iftakher99/) 
  
