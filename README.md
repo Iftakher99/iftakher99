@@ -24,14 +24,14 @@ const iftakher = {
     askMeAbout: ["web dev", "tech", "front-end-dev"],
     technologies: {
         backEnd: {
-            js: ["node", , "express", ],
+            js: ["node","express" ],
         },
         frontEnd: {
-            js: ["react", ],
+            js: ["react" ],
             css: ["materialize", "react-bootstrap", "bootstrap"]
         },
         databases: ["mongoDb"],
-        misc: ["Firebase", "Socket.IO",  ]
+        misc: ["Firebase", "Socket.IO"]
     },
     architecture: [ "Progressive web applications", "Single page applications"],
     currentFocus: "Single page Web",
@@ -41,8 +41,8 @@ const iftakher = {
 
 
 ## My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
-</p>
-📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
+
+<h3>📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a></h3><br>
 
   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iftakher99/) 
   <a href="https://www.linkedin.com/in/iftakher-mahmud/">
