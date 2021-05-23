@@ -111,8 +111,8 @@ const iftakher = {
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/iftakher99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/iftakher99/thunder-sports">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=thunder-sports&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="thunder-sports" />
 </a>
 
 <a href="https://github.com/iftakher99/247-electric">
