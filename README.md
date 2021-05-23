@@ -34,13 +34,14 @@
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
 
   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iftakher99/) 
+  <a href="https://www.linkedin.com/in/iftakher-mahmud/">
+  <img align="left" alt="iftakher_mahmud " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
+</a>
  
   <a href="https://twitter.com/iftakher_mahmud"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/iftakher_mahmud?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
   <a href="https://github.com/iftakher99"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/iftakher99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-   <a href="https://www.linkedin.com/in/iftakher-mahmud/">
-  <img align="left" alt="iftakher_mahmud " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
-</a>
+   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" />
     </p>
  
