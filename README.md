@@ -109,11 +109,15 @@ const iftakher = {
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me.:grimacing: 
 
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=iftakher99&theme=radical)](https://github.com/iftakher99/iftakher99)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=Responsive-Web-Design&theme=radical)](https://github.com/iftakher99/Responsive-Web-Design)
-</div>
+## 🗂️ Highlight Projects
 
+<a href="https://github.com/iftakher99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/iftakher99/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
 ------
 Credit: [iftakher99](https://github.com/iftakher99)
 Last Edited on: 19/5/2021
