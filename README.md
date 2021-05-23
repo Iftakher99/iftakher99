@@ -77,7 +77,8 @@
          </tr>
      </tbody>
 </table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&langs_count_private=true&theme=radical&card_width=445)<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<br><br>
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me.:grimacing: 
