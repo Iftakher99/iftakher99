@@ -100,6 +100,11 @@ const iftakher = {
 <br><br>
 
 
+## 👨‍💻 This week, I spent my time on:
+
+[![iftakhers's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iftakher99&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/iftakher99/github-readme-stats)
+
+
 <strong>## Other Stuff </strong>
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me.:grimacing: 
