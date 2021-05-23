@@ -5,7 +5,7 @@
 </p>
 
 <div >
-<strong> <span align="center">About Me: </span></strong> <br>
+<strong> About Me: </strong> <br>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <p align="center"> 
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
@@ -32,24 +32,22 @@
 7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
 </p>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/iftakher-mahmud/">Linkedin</a><br>
-<p align="center">
 
+  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iftakher99/) 
+ 
   <a href="https://twitter.com/iftakher_mahmud"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/iftakher_mahmud?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
  
   <a href="https://github.com/iftakher99"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/iftakher99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" />
-    </p>
     <a href="https://www.linkedin.com/in/iftakher-mahmud/">
-  <img align="left" alt="iftakher_mahmud LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="iftakher_mahmud LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
 </a>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" />
+    </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iftakher99.iftakher99)
   
-  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iftakher99/) 
- 
+
  
  
 </p><br><br>
