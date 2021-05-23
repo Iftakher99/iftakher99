@@ -29,15 +29,16 @@ const iftakher = {
             js: ["react", ],
             css: ["materialize", "react-bootstrap", "bootstrap"]
         },
-        
         databases: ["mongoDb"],
         misc: ["Firebase", "Socket.IO",  ]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Single page Web application",
+    currentFocus: "Single page Web",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+
 7. My repositories: <a href= "https://github.com/iftakher99?tab=repositories" target="blank"> iftakher's Repositories</a>
 </p>
 📫 Reach me at <a href="mailto:19tonmoy99@gmail.com">19tonmoy99@gmail.com</a><br>
