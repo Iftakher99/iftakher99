@@ -49,14 +49,38 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iftakher99&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftakher99&theme=radical&hide_border=true"/><br><br>
 
-<strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-javascript-lightgrey?style=plastic"/><br>
+<strong>💡 My Languages And Tools:</strong><br><br>
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+          <td><a href="https://getbootstrap.com" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+            </td>
+             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+          <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+          </td>
+         </tr>
+     </tbody>
+</table><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&langs_count_private=true&theme=radical&card_width=445)<br><br>
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
+  - If you have any suggestions to this README, feel free to inform me.:grimacing: 
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iftakher99&repo=iftakher99&theme=radical)](https://github.com/iftakher99/iftakher99)
