@@ -100,7 +100,7 @@ const iftakher = {
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![iftakher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iftakher99)](https://github.com/iftakher99/github-readme-stats)
+[![iftakher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iftakher99&layuout=compact&theme=synthwave&v=2)](https://github.com/iftakher99/github-readme-stats)
 
 
 <strong>## Other Stuff </strong>
@@ -120,4 +120,4 @@ const iftakher = {
 
 ------
 Credit: [iftakher99](https://github.com/iftakher99)
-Last Edited on: 23/5/2021
+Last Edited on: 1/6/2021
