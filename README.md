@@ -97,12 +97,6 @@ const iftakher = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakher99&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br><br>
 
-
-## 👨‍💻 This week, I spent my time on:
-
-[![iftakher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=@iftakher99/ftakher99/f4b5941d-d3c6-4072-b706-0c117cecfee8)](https://github.com/iftakher99/github-readme-stats)
-
-
 <strong>## Other Stuff </strong>
   - :octocat: [My Resume](https://drive.google.com/file/d/1ddSYJHLZbP8AiQv19NzE-sJhGDQFrwhX/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me.:grimacing: 
